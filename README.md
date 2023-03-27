@@ -1,4 +1,4 @@
-Just a simple Weather App with vanilla JavaScript.
+A simple weather app built using vanilla Javascript.
 
 Demo: https://vargriym.github.io/vanilla-js-weather-app/
 
