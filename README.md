@@ -2,5 +2,5 @@ A simple weather app built using vanilla JavaScript.
 
 Demo: https://vargriym.github.io/vanilla-js-weather-app/
 
+![Screenshot from 2023-06-23 08-36-14](https://github.com/Vargriym/vanilla-js-weather-app/assets/102037554/ef4de384-1467-446a-8581-a7e4685f8e9f)
 
-![Screenshot from 2023-01-19 12-53-05](https://user-images.githubusercontent.com/102037554/213428821-03c3d59c-3b1a-4565-8127-8a8cda728691.png)
